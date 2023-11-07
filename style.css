@@ -1,6 +1,13 @@
-.background {
+
+
+.bg {
     z-index: -1;
-    width: 100%;
     position: fixed;
-    margin-top: -100px;
+    margin: -2000px;
+}
+
+.bg-about{
+    z-index: -1;
+    position: fixed;
+    margin-top: -2000px;
 }
