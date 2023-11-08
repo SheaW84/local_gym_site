@@ -3,11 +3,30 @@
 .bg {
     z-index: -1;
     position: fixed;
-    margin: -2000px;
+    margin-top: -208px;
+    max-width: 100%;
+    height: auto;
 }
 
 .bg-about{
     z-index: -1;
     position: fixed;
-    margin-top: -2000px;
+    margin-top: -850px;
+    max-width: 100%;
+    height: auto;
+}
+
+.bg-out{
+    z-index: -1;
+    position: fixed;
+    margin-top: -275px;
+    max-width: 100%;
+    height: auto;
+}
+.bg-in {
+    z-index: -1;
+    position: fixed;
+    margin-top: -600px;
+    max-width: 100%;
+    height: auto;
 }
