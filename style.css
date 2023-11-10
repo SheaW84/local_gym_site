@@ -1,11 +1,15 @@
 
 
-.bg {
-    z-index: -1;
-    position: fixed;
-    margin-top: -208px;
-    max-width: 100%;
-    height: auto;
+#background {
+    background-image: url(/gym_images/girl-staring-into-mirror.jpg);
+    height:2848px;
+    padding: 10px;
+}
+
+@media (min-width:992px){
+    #background {
+        margin-top: -200px;
+    }
 }
 
 .bg-about{
